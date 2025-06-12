@@ -12,3 +12,4 @@ A Python bot that safely adds users to Telegram groups by username with anti-blo
 1. Install requirements:
    ```bash
    pip install -r requirements.txt"# telegram-group-adder-bot" 
+"# telegram-group-adder-bot" 
